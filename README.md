@@ -1,4 +1,4 @@
-# todoList
+# TodoList
 A simple Todo List
 
 This is a command line app.
