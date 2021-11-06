@@ -20,5 +20,5 @@ function displayInline(string $text)
 
 function displayLine()
 {
-    echo '____________________________________________________________' . PHP_EOL;
+    echo '______________________________' . PHP_EOL;
 }
